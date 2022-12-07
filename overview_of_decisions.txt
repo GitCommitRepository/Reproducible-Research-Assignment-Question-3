@@ -1,7 +1,5 @@
 Give a brief overview of the decisions you made along the way (in 100–200 words):
 
-
-
 Downloading from the internet created problems with some of the files so I copied the content into R studio and saved the files with the right extensions.
 I set the working directory and ran them in R Studio. I first uploaded them to github and then realised I should structure the respository in R Studio so I deleted the files out.
 I created the directories: code, output and source_data because I find it easy to divide the files by these distinctions. I created files in GitHub for all but the oxford.txt, melbourne.csv and results.png, which I uploaded because they were too large to copy and paste or in the wrong format. I added code to the make-plot.R script to create a package-versions text file in the output directory and uploaded this file. This is to record the software versions I used.
